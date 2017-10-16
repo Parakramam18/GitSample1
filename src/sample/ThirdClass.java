@@ -3,19 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package cfwdaytool;
+package sample;
 
 /**
  *
  * @author prajendra
  */
-public class CFWDAYTool {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-       System.out.println("Second Commit");
-    }
+public class ThirdClass {
     
 }

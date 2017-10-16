@@ -9,13 +9,6 @@ package cfwdaytool;
  *
  * @author prajendra
  */
-public class CFWDAYTool {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-       System.out.println("Second Commit");
-    }
+public class SecondClass {
     
 }
